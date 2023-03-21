@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "js-cookies": "^1.0.4",
+    "react-toastify": "^9.1.1"
+  }
+}
